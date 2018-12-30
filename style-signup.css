@@ -9,6 +9,7 @@ body{
 	background-color:#292c31;
 	font-family:arial;
 	font-size:14px
+
 	}
 h1{
 	margin-bottom:10px;
@@ -25,6 +26,7 @@ form{
 .container{
 	margin:10px auto;
 	max-width:1230px;
+	margin-bottom:20px;
 	}
 .col-left{
 	float:left;
@@ -40,6 +42,7 @@ form{
 	float:left;
 	width:627px;
 	padding:80px 100px;
+	height: 901px;
 	box-sizing:border-box;
 	background-color:white;
 	border-top-right-radius:15px;
